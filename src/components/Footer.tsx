@@ -17,7 +17,7 @@ const Footer = () => {
         <div className="bg-white  w-max rounded-xl shadow-xl h-auto sm:h-[200px] md:h-[300px] p-4 md:p-8">
           <div className="font-semibold text-lg sm:text-xl md:text-2xl lg:text-4xl">
             <span className="text-orange-600">K</span>
-            <span className=" text-black">rihna</span>
+            <span className=" text-black">rishna</span>
             <span className="text-orange-600 ml-4">C</span>
             <span className=" text-black">haturvedi</span>
           </div>
@@ -25,21 +25,21 @@ const Footer = () => {
             <div className="text-sm md:text-2xl text-orange-600 pr-3">
               <FaLocationDot />
             </div>
-            <div className="text-sm md:text-xl">Indore, 158</div>
+            <div className="text-sm md:text-xl">Mumbai</div>
           </div>
           <div className="flex items-center pt-3 cursor-pointer">
             <div className="text-sm md:text-2xl text-orange-600 pr-3">
               <IoMdMailUnread />
             </div>
             <div className="text-sm md:text-xl ">
-              krishnachaturvedi@gmail.com
+            Krishnachaturvedi.mahadev@gmail.com
             </div>
           </div>
           <div className="flex items-center pt-3 cursor-pointer">
             <div className="text-sm md:text-2xl text-orange-600 pr-3">
               <IoCall />
             </div>
-            <div className="text-sm md:text-xl">+789-545-556</div>
+            <div className="text-sm md:text-xl">+91 7000736998</div>
           </div>
         </div>
 
